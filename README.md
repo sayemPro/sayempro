@@ -1,4 +1,4 @@
-<img scr="./image/IMG_2183.jpg" width="500px">
+<img scr="./images/IMG_2183.jpg" width="500px">
 <h1 align="center">Hi 👋, I'm Md. Sayem Sarkar</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh.</h3>
 
